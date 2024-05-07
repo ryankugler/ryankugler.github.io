@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Kugler / Personal Portfolio"
+title                    : "Ryan Kugler"
 title_separator          : "-"
 name                     : &name "Ryan Kugler"
 description              : &description "Computer Enthusiast"
@@ -21,7 +21,7 @@ repository               : "ryankugler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ryan Kugler"
   pronouns         : # example: "he/him"  
   bio              : "University of Waterloo Computer Engineering Alum"
